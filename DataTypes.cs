@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharp
 {
-    internal class dataTypes
+    internal class DataTypes
     {
         static void Main(String[] Args)
         {
