@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharp
 {
-    internal class typeCasting
+    internal class TypeCasting
     {
         static void Main(String[] args)
         {
