@@ -69,11 +69,4 @@ MAKSİMUM 70 olabilir.
 
 70’in üzerindeki tüm değerler otomatik olarak 70’e düşürülür.
 Bu sistem oyun dengesini korumak için uygulanır.
-
 --------------------------------------------------
-
-Özet:
-Silah → Rastgele Hasar
-Irk + Branş → Bonus
-Kritik → Ek Güç
-Maksimum Hasar → 70
