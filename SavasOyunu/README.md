@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/63389358-c4f1-4d9a-af99-2e33b9c4fdb7
+
+
+
 SAVAŞ OYUNU – GÜÇ AYRIMLARI VE HASAR SİSTEMİ
 
 Bu oyunda büyücünün verdiği hasar 3 ana faktöre bağlıdır:
